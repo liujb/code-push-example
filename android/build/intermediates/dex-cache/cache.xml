@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/didi/Code/App/code-push-example/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/didi/Code/App/code-push-example/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_3cd064a3c22755175fa07ef8939237543bbba3ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/didi/Code/App/code-push-example/android/app/build/intermediates/exploded-aar/codepushexample/react-native-code-push/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="88caf1a647f5ccc3c8ab7cdbbab5551f81b7b6c0">
+        <dex dex="/Users/didi/Code/App/code-push-example/android/app/build/intermediates/pre-dexed/debug/codepushexample-react-native-code-push-unspecified_a4cd5f55ed0a219f80af21d38ddb800a662f2eeb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/didi/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/didi/Code/App/code-push-example/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_b139c6ad846be5eda2838678626602a5dda9ea51.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/didi/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/didi/Code/App/code-push-example/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_ccc8cfa3b2b0413321a9a1840cd93aae8a86fe35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/didi/Code/App/code-push-example/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Users/didi/Code/App/code-push-example/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_55c3014b936f93bbd2a3041448757975ee7f766d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/didi/.gradle/caches/modules-2/files-2.1/net.minidev/json-smart/2.3/7396407491352ce4fa30de92efb158adb76b5b/json-smart-2.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="007396407491352ce4fa30de92efb158adb76b5b">
+        <dex dex="/Users/didi/Code/App/code-push-example/android/app/build/intermediates/pre-dexed/debug/json-smart-2.3_7f522921c50d8f166812c15b47d46f302fc7f62f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/didi/.gradle/caches/modules-2/files-2.1/com.nimbusds/nimbus-jose-jwt/5.1/98dfb9ee74d290afce026a262c6297138a0c8ec4/nimbus-jose-jwt-5.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="98dfb9ee74d290afce026a262c6297138a0c8ec4">
+        <dex dex="/Users/didi/Code/App/code-push-example/android/app/build/intermediates/pre-dexed/debug/nimbus-jose-jwt-5.1_1531b819e53a827a788aefe6b92a19dbfbf1d122.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/didi/Code/App/code-push-example/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Users/didi/Code/App/code-push-example/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_adec03b5a67d34558fb5bce5d6667b42fb02ef89.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/didi/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/didi/Code/App/code-push-example/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_a694d6e832592ccdbb4b17186b2f6c671d2b880f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/didi/Code/App/code-push-example/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="01f201f8a16c7438c9ee4c56139d01663f2cb0e4">
+        <dex dex="/Users/didi/Code/App/code-push-example/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.55.3_89120638307f27e5607bd64ffd951ed2768b5063.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/didi/Code/App/code-push-example/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/didi/Code/App/code-push-example/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_42752067a75486da67d39a4c47772f6ee1f3a23d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/didi/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/didi/Code/App/code-push-example/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_b8ddbb74681ad670b0b1352d867de0af32325e94.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/didi/Code/App/code-push-example/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Users/didi/Code/App/code-push-example/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_1183e174b61f65f47559a7ff29d2aa2cff844e02.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/didi/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/didi/Code/App/code-push-example/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_e2055e923ebc6ac72e9cf9509a4f66be6bb21966.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/didi/Code/App/code-push-example/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.3/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/didi/Code/App/code-push-example/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_1789e09a63a9b4e02e27be8bafbf99c7074d0135.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/didi/.gradle/caches/modules-2/files-2.1/com.github.stephenc.jcip/jcip-annotations/1.0-1/ef31541dd28ae2cefdd17c7ebf352d93e9058c63/jcip-annotations-1.0-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ef31541dd28ae2cefdd17c7ebf352d93e9058c63">
+        <dex dex="/Users/didi/Code/App/code-push-example/android/app/build/intermediates/pre-dexed/debug/jcip-annotations-1.0-1_2cbe3d3f408234eacb3dd1f4cc3a32310b53e66b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/didi/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm/5.0.4/da08b8cce7bbf903602a25a3a163ae252435795/asm-5.0.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="0da08b8cce7bbf903602a25a3a163ae252435795">
+        <dex dex="/Users/didi/Code/App/code-push-example/android/app/build/intermediates/pre-dexed/debug/asm-5.0.4_5c6493e499bd0e4ac35a20bf5ef9d41e4fdfbd5b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/didi/Code/App/code-push-example/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/didi/Code/App/code-push-example/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_ca4f58fbcad07bb19ad98924f7293b75c3dbbf46.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/didi/Code/App/code-push-example/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/didi/Code/App/code-push-example/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_6b9139859dbde64cdf757ec08e9635701f4fa8b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/didi/Code/App/code-push-example/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/didi/Code/App/code-push-example/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_5ed576d7cfd36b9504ece54353d168d6d23cb978.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/didi/Code/App/code-push-example/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Users/didi/Code/App/code-push-example/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_60012951ff4ad3eea02bf031f1fe94e6dd0215b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/didi/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/didi/Code/App/code-push-example/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_d220260d9cb6191e6ee45aa128fdf9a93dfb9952.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/didi/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/didi/Code/App/code-push-example/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_4a9ef4da485619aed839c5ab025aa114eb11fb18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/didi/.gradle/caches/modules-2/files-2.1/net.minidev/accessors-smart/1.2/c592b500269bfde36096641b01238a8350f8aa31/accessors-smart-1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c592b500269bfde36096641b01238a8350f8aa31">
+        <dex dex="/Users/didi/Code/App/code-push-example/android/app/build/intermediates/pre-dexed/debug/accessors-smart-1.2_06aabf382c2e10578d5f137050ef31a2423c2a9b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/didi/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/didi/Code/App/code-push-example/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_efdef2d42382be8752aa9a725b6b1d997e761a23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/didi/Code/App/code-push-example/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/didi/Code/App/code-push-example/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_b500beed85df5684902f7cf66f1ca02eb536165b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/didi/Code/App/code-push-example/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/didi/Code/App/code-push-example/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_0b125564c697d6f7bd4189c69e2c276cc7243149.jar" />
+    </item>
+
+</items>
